@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+//
     public void save(String inputText){
         FileOutputStream out = null;
         BufferedWriter writer = null;
